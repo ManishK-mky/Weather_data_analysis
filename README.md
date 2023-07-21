@@ -10,13 +10,13 @@ Visibility , pressure and conditions.
 The data is available in the CSV(comma separated file format) format.
 
 # Information Extracted
-1)All the unique "Wind Speed" values in the data. 
-2)Number of times when the 'Weather is exactly Clear'.
-3)Number of times when the 'Wind speed was exactly 4km/h'.
-4)All the NULL values in the data.
-5)Renaming the Column.
-6)Mean Visibility.
-7)Standard Deviation of Pressure.
-8)The variance of 'Relative Humidity'.
-9)All the instances when 'Snow was recorded'.
-10)All instances when 'Wind Speed is above 24' and visibility is 25.
+1)All the unique "Wind Speed" values in the data. </br>
+2)Number of times when the 'Weather is exactly Clear'.</br>
+3)Number of times when the 'Wind speed was exactly 4km/h'.</br>
+4)All the NULL values in the data.</br>
+5)Renaming the Column.</br>
+6)Mean Visibility.</br>
+7)Standard Deviation of Pressure.</br>
+8)The variance of 'Relative Humidity'.</br>
+9)All the instances when 'Snow was recorded'.</br>
+10)All instances when 'Wind Speed is above 24' and visibility is 25.</br>
